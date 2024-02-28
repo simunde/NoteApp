@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="action_bar_background_color">#673AB7</color> <!-- Replace with your desired color -->
+
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryContainer">#3700B3</color> <!-- Or use the same value as colorPrimary for an exact match -->
+
+
+</resources>
