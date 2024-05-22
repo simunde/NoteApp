@@ -44,6 +44,7 @@ android {
 }
 
 dependencies {
+    implementation("androidx.test.espresso:espresso-contrib:3.5.1")
     val roomVersion = "2.6.1"
     val lifecycleVersion = "2.7.0"
 
